@@ -1,3 +1,4 @@
 {
-"device_id":"nasutoma-1"
+"device_id":"nasutoma-1",
+"mqttc_host":"youre-mqttc-host.com",
 }
